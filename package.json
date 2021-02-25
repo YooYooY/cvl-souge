@@ -1,0 +1,19 @@
+{
+  "name": "cvl-souge",
+  "version": "1.0.0",
+  "description": "music download commander",
+  "main": "index.js",
+  "bin": {
+    "souge": "./bin/souge"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "ora": "^5.3.0",
+    "single-line-log": "^1.1.2"
+  }
+}
